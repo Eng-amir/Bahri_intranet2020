@@ -1,268 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd911de-4096-4dfe-a742-341cabbddd40" name="Default Changelist" comment="first">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/new-bahry.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fade-down.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webslidemenu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webslidemenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Bold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Montserrat-SemiBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/bahri.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/bahri.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/bahri.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/bahri.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/fontello.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Ellipse 32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Ellipse 32@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 1122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 1122@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 3627.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 3627@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Group 5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Mask Group 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Mask Group 6@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 25@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 27@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 28@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Path 30@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 1 copy@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 776.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 776@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Slider@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bg@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/close@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/img@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/info.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo1@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.matchHeight-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/2146954c25c3a10afee346c4a18c0bbc68e29382/_api.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_clearfix.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_colored-links.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_position.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_ratio.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_stretched-link.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_text-truncation.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/32167a8e9f0aa03be187ba4a49a193c2c199bfcc/_visually-hidden.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_accordion.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_alert.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_badge.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_breadcrumb.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_button-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_buttons.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_card.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_carousel.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_close.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_containers.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_dropdown.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_forms.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_functions.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_grid.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_helpers.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_images.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_list-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_mixins.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_modal.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_nav.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_navbar.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_pagination.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_popover.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_progress.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_reboot.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_root.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_spinners.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_tables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_toasts.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_tooltip.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_transitions.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_type.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_utilities.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/3be33010d758698afa7d48536ee4cd0cd439c2c9/bootstrap.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/5543bf06c3161930e0427e7f09bdd17275275578/_rfs.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_alert.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_border-radius.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_box-shadow.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_breakpoints.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_buttons.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_caret.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_clearfix.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_container.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_deprecate.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_forms.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_gradients.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_grid.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_image.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_list-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_lists.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_pagination.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_reset-text.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_resize.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_table-variants.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_text-truncate.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_transition.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_utilities.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/a609258b9ec0fe7faa2e0bd5a941dd491c83882a/_visually-hidden.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_floating-labels.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_form-check.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_form-control.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_form-range.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_form-select.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_form-text.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_input-group.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_labels.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/c050582d435461ed9fb1972035717ac668c7cf7f/_validation.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/.sass-cache/cef18906163110f17d4224ad2025ff1ccf4c064c/custom.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_accordion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_containers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/bootstrap-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_floating-labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_form-check.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_form-control.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_form-range.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_form-select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_form-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/forms/_validation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_colored-links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_ratio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_text-truncation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/helpers/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_table-variants.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/mixins/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/utilities/_api.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/vendor/_rfs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-bahry.rar" afterDir="false" />
+    <list default="true" id="8dd911de-4096-4dfe-a742-341cabbddd40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 823.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 823@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/title-bg@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/webslidemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/webslidemenu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/webslidemenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/webslidemenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-bahry.rar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,18 +56,18 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\New Company\new-bahry" />
       <recent name="E:\New Company\new-bahry\assets\fonts" />
       <recent name="E:\New Company\new-bahry\assets\css" />
       <recent name="E:\New Company\new-bahry\assets\owl-carousel" />
       <recent name="E:\New Company\new-bahry\assets" />
-      <recent name="E:\New Company\new-bahry" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\New Company\new-bahry\assets\scss" />
@@ -326,8 +84,18 @@
       <option name="presentableId" value="Default" />
       <updated>1608589508917</updated>
       <workItem from="1608589513545" duration="30661000" />
-      <workItem from="1608621027145" duration="64357000" />
+      <workItem from="1608621027145" duration="80746000" />
+      <workItem from="1608746906218" duration="79230000" />
+      <workItem from="1609010467517" duration="77535000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1608712950027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608712950027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
