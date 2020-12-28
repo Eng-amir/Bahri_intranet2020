@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd911de-4096-4dfe-a742-341cabbddd40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/_fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 823.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Rectangle 823@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/title-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/title-bg@2x.png" afterDir="false" />
+    <list default="true" id="8dd911de-4096-4dfe-a742-341cabbddd40" name="Default Changelist" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/webslidemenu.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/webslidemenu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/webslidemenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/webslidemenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-bahry.rar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +44,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -86,7 +72,7 @@
       <workItem from="1608589513545" duration="30661000" />
       <workItem from="1608621027145" duration="80746000" />
       <workItem from="1608746906218" duration="79230000" />
-      <workItem from="1609010467517" duration="77535000" />
+      <workItem from="1609010467517" duration="81091000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1608712950027</created>
@@ -102,6 +88,9 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>

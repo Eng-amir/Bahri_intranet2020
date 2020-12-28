@@ -10631,7 +10631,8 @@ section.about {
       .business-units .business-units-details-container .content .small-p {
         font-size: 16px; }
       .business-units .business-units-details-container .content .top10 {
-        margin-bottom: 40px; }
+        margin-bottom: 40px;
+        margin-top: 84px; }
         .business-units .business-units-details-container .content .top10 h1, .business-units .business-units-details-container .content .top10 .h1 {
           font-size: 50px;
           font-weight: Bold;
@@ -10643,11 +10644,13 @@ section.about {
           text-transform: uppercase;
           line-height: 21px;
           font-family: Bold; }
-      .business-units .business-units-details-container .content .bottom-dec .six {
-        font-size: 65px;
-        font-family: Bold; }
-      .business-units .business-units-details-container .content .bottom-dec span {
-        line-height: 11px; }
+      .business-units .business-units-details-container .content .bottom-dec {
+        margin-top: 0; }
+        .business-units .business-units-details-container .content .bottom-dec .six {
+          font-size: 65px;
+          font-family: Bold; }
+        .business-units .business-units-details-container .content .bottom-dec span {
+          line-height: 11px; }
       .business-units .business-units-details-container .content .btn-close {
         background: transparent;
         border: 0 none;
@@ -10668,6 +10671,9 @@ section.about {
       @media (prefers-reduced-motion: reduce) {
         .business-units .business-units-details-container.show {
           transition: none; } }
+
+.btn-secondary:hover {
+  color: #ffffff; }
 
 .animated-arrow {
   border-radius: 50%;
@@ -10833,7 +10839,10 @@ input[type="search"]::-webkit-search-results-decoration {
 
 @media (max-width: 575.98px) {
   .copyright {
-    text-align: center; } }
+    text-align: center; }
+
+  section.about .about-intro {
+    margin-top: 35px; } }
 @media (max-width: 767.98px) {
   .card {
     margin-top: 60px; }
